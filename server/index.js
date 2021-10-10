@@ -23,6 +23,10 @@ app.get('/', (req, res) => {
 
 app.use('/api/contact', emailRoute);
 
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 3000;
+}
+app.listen(port);
 
-
-app.listen(apiPort, () => console.log(`Server running on port ${apiPort}`));
+app.listen(port, () => console.log(`Server running on port ${apiPort}`));

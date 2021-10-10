@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/NoraBird/static/css/main.68b9d1f8.chunk.css",
+    "main.js": "/NoraBird/static/js/main.ec997793.chunk.js",
+    "main.js.map": "/NoraBird/static/js/main.ec997793.chunk.js.map",
+    "runtime-main.js": "/NoraBird/static/js/runtime-main.7461fca7.js",
+    "runtime-main.js.map": "/NoraBird/static/js/runtime-main.7461fca7.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/NoraBird/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.f13b9715.chunk.js": "/NoraBird/static/js/2.f13b9715.chunk.js",
+    "static/js/2.f13b9715.chunk.js.map": "/NoraBird/static/js/2.f13b9715.chunk.js.map",
+    "static/js/3.2ffd88d1.chunk.js": "/NoraBird/static/js/3.2ffd88d1.chunk.js",
+    "static/js/3.2ffd88d1.chunk.js.map": "/NoraBird/static/js/3.2ffd88d1.chunk.js.map",
+    "index.html": "/NoraBird/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/NoraBird/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.68b9d1f8.chunk.css.map": "/NoraBird/static/css/main.68b9d1f8.chunk.css.map",
+    "static/js/2.f13b9715.chunk.js.LICENSE.txt": "/NoraBird/static/js/2.f13b9715.chunk.js.LICENSE.txt",
+    "static/media/celebration.f5644f94.jpg": "/NoraBird/static/media/celebration.f5644f94.jpg",
+    "static/media/logo.6ce24c58.svg": "/NoraBird/static/media/logo.6ce24c58.svg",
+    "static/media/nora.4122d040.jpg": "/NoraBird/static/media/nora.4122d040.jpg",
+    "static/media/venue1.dd1777a0.jpg": "/NoraBird/static/media/venue1.dd1777a0.jpg",
+    "static/media/venue_2.1d0b8051.jpg": "/NoraBird/static/media/venue_2.1d0b8051.jpg",
+    "static/media/venue_3.c5429de9.jpg": "/NoraBird/static/media/venue_3.c5429de9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7461fca7.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.f13b9715.chunk.js",
+    "static/css/main.68b9d1f8.chunk.css",
+    "static/js/main.ec997793.chunk.js"
+  ]
+}
